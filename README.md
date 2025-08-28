@@ -81,3 +81,5 @@ Conclusion
 
 
 The Data pipeline architecture clearly illustrates all steps needed to be taken to optimize data accessibility, analytics and reporting, from the data generation and ingestion to the transformation stage and finally making it comprehensive datasets accessible to the downstream users.
+
+<img width="3260" height="1360" alt="Beejan Data Pipeline Architecture" src="https://github.com/user-attachments/assets/9ee4da19-b6df-448c-8873-1a0fdefd38d9" />
